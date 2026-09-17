@@ -1,0 +1,15 @@
+# Compiled Fortran binaries and objects
+a.out
+*.o
+*.mod
+gaussiana
+*_gauss
+*.exe
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS / editor artifacts
+*:Zone.Identifier
+.DS_Store
